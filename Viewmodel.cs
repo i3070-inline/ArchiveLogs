@@ -30,8 +30,6 @@ namespace ArchiveLogs
 		public string NameArchive { get; set; }
 
 
-		//sucanaaaaaaaaaaaaaaaaannnnnnnaaaaaaaaac
-		//dimandra
 		
 	}
 }
